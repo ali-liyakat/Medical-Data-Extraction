@@ -1,4 +1,4 @@
-from parser_generic import MedicalDocParser
+from backend.src.parser_generic import MedicalDocParser
 import re
 
 class PrescriptionParser(MedicalDocParser):
