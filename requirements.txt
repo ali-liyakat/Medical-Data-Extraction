@@ -3,3 +3,4 @@ pytesseract
 opencv_python
 pillow
 fastapi[all]
+pytest
